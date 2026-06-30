@@ -1,17 +1,18 @@
 # 🚦 Smart Traffic Demand Prediction System
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="9700"/>
+  <img src="images/app_images/dashboard.png" width="600">
 </p>
 
 <p align="center">
-An AI-powered <b>Traffic Demand Prediction System</b> built using <b>XGBoost</b> and <b>Streamlit</b>. The application predicts hourly traffic volume using weather conditions, road characteristics, and temporal features to support intelligent traffic management.
+<b>An AI-powered Traffic Demand Prediction System built using XGBoost and Streamlit.</b><br>
+Predict hourly traffic volume using weather conditions, road characteristics, and temporal features for intelligent traffic management.
 </p>
 
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![XGBoost](https://img.shields.io/badge/XGBoost-Regression-success)
+![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-success)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 
@@ -21,15 +22,15 @@ An AI-powered <b>Traffic Demand Prediction System</b> built using <b>XGBoost</b>
 
 # 🌐 Live Application
 
-### 🔗 Streamlit App
+🔗 **Streamlit App**
 
-**YOUR_STREAMLIT_APP_LINK**
+https://traffic-demand-prediction-zdkhydh22oqxou2otqgo3j.streamlit.app/
 
 ---
 
 # 🎥 Demo Video
 
-### ▶️ Watch Demo
+🎬 **Project Demo**
 
 https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=sharing
 
@@ -37,7 +38,20 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 
 # 📄 Project Report
 
-📘 The complete project report is available inside the **reports** folder.
+📘 The complete project report is available in the **reports** folder.
+
+---
+
+# ✨ Key Features
+
+- 🤖 AI-powered Traffic Volume Prediction
+- 📊 Interactive Analytics Dashboard
+- 🌦 Weather-aware Traffic Prediction
+- 🚦 Road Type Analysis
+- ⏰ Rush Hour Detection
+- 📈 Feature Correlation Analysis
+- ⚡ XGBoost Regression Model
+- 💻 Responsive Streamlit Web Application
 
 ---
 
@@ -45,43 +59,37 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 
 ## 🏠 Dashboard
 
-![](images/app_images/dashboard.png)
+<p align="center">
+  <img src="images/app_images/dashboard.png" width="600">
+</p>
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Analytics
 
-![](images/app_images/analytics.png)
+<p align="center">
+  <img src="images/app_images/analytics.png" width="600">
+</p>
 
 ---
 
 ## 🚦 Traffic Prediction
 
-![](images/app_images/prediction.png)
+<p align="center">
+  <img src="images/app_images/prediction.png" width="600">
+</p>
 
 ---
 
 ## ℹ️ About Page
 
-![](images/app_images/about.png)
+<p align="center">
+  <img src="images/app_images/about.png" width="600">
+</p>
 
 ---
 
-# 🚀 Key Features
-
-- 🤖 AI-powered Traffic Volume Prediction
-- 📈 Interactive Dashboard
-- 📊 Real-time Traffic Analytics
-- 🌦 Weather-aware Traffic Prediction
-- 🚦 Road Type Analysis
-- ⏰ Rush Hour Detection
-- 📉 Feature Correlation Analysis
-- 💻 Streamlit Web Application
-- ⚡ Fast XGBoost Prediction Engine
-
----
-
-# 🛠 Tech Stack
+# 🛠 Technologies Used
 
 | Category | Technologies |
 |-----------|--------------|
@@ -95,22 +103,22 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 
 ---
 
-# 📈 Machine Learning Workflow
+# 📈 Machine Learning Pipeline
 
-- ✔ Data Collection
-- ✔ Data Preprocessing
-- ✔ Feature Engineering
-- ✔ Exploratory Data Analysis (EDA)
-- ✔ Model Training
-- ✔ Hyperparameter Tuning
-- ✔ Model Evaluation
-- ✔ Streamlit Deployment
+- Data Collection
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Training
+- Hyperparameter Tuning
+- Model Evaluation
+- Streamlit Deployment
 
 ---
 
 # 🎯 Prediction Features
 
-The model predicts **Traffic Volume** using:
+The model predicts traffic volume using:
 
 - Hour
 - Temperature
@@ -132,18 +140,18 @@ The model predicts **Traffic Volume** using:
 
 ---
 
-# 📊 Model
+# 📊 Model Information
 
 | Property | Value |
 |----------|--------|
 | Algorithm | XGBoost Regressor |
 | Prediction Type | Regression |
 | Hyperparameter Tuning | RandomizedSearchCV |
-| Target | Traffic Volume |
+| Target Variable | Traffic Volume |
 
 ---
 
-# 💻 Installation
+# 🚀 Run Locally
 
 Clone the repository
 
@@ -151,7 +159,7 @@ Clone the repository
 git clone https://github.com/kondreddyvikhila/traffic-demand-prediction.git
 ```
 
-Move into the project folder
+Move into the project directory
 
 ```bash
 cd traffic-demand-prediction
@@ -186,8 +194,10 @@ streamlit run app.py
 
 ## **Vikhila Kondreddy**
 
+
 ---
 
-If you found this project useful, please consider **starring ⭐ this repository**.
 
-Thank you for visiting this project!
+If you found this project useful, please consider giving this repository a **⭐ Star**.
+
+Thank you for visiting this repository!
