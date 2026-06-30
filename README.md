@@ -1,7 +1,7 @@
 # 🚦 Smart Traffic Demand Prediction System
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="100">
+  <img src="images/app_images/dashboard.png" width="500">
 </p>
 
 <p align="center">
