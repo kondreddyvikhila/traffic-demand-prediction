@@ -1,7 +1,7 @@
 # 🚦 Smart Traffic Demand Prediction System
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="500">
+  <img src="images/app_images/dashboard.png" width="400">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="200">
+  <img src="images/app_images/dashboard.png" width="300">
 </p>
 
 ---
@@ -68,7 +68,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 📊 Analytics
 
 <p align="center">
-  <img src="images/app_images/analytics.png" width="200">
+  <img src="images/app_images/analytics.png" width="300">
 </p>
 
 ---
@@ -76,7 +76,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 🚦 Traffic Prediction
 
 <p align="center">
-  <img src="images/app_images/prediction.png" width="200">
+  <img src="images/app_images/prediction.png" width="300">
 </p>
 
 ---
@@ -84,7 +84,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## ℹ️ About Page
 
 <p align="center">
-  <img src="images/app_images/about.png" width="200">
+  <img src="images/app_images/about.png" width="300">
 </p>
 
 ---
