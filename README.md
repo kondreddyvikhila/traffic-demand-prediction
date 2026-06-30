@@ -1,7 +1,7 @@
 # 🚦 Smart Traffic Demand Prediction System
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="600">
+  <img src="images/app_images/dashboard.png" width="100">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="images/app_images/dashboard.png" width="600">
+  <img src="images/app_images/dashboard.png" width="200">
 </p>
 
 ---
@@ -68,7 +68,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 📊 Analytics
 
 <p align="center">
-  <img src="images/app_images/analytics.png" width="600">
+  <img src="images/app_images/analytics.png" width="200">
 </p>
 
 ---
@@ -76,7 +76,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## 🚦 Traffic Prediction
 
 <p align="center">
-  <img src="images/app_images/prediction.png" width="600">
+  <img src="images/app_images/prediction.png" width="200">
 </p>
 
 ---
@@ -84,7 +84,7 @@ https://drive.google.com/file/d/13mKpZaiRv_Hov47p0WJsRUyRaaMF0VI2/view?usp=shari
 ## ℹ️ About Page
 
 <p align="center">
-  <img src="images/app_images/about.png" width="600">
+  <img src="images/app_images/about.png" width="200">
 </p>
 
 ---
@@ -195,9 +195,5 @@ streamlit run app.py
 ## **Vikhila Kondreddy**
 
 
----
 
 
-If you found this project useful, please consider giving this repository a **⭐ Star**.
-
-Thank you for visiting this repository!
