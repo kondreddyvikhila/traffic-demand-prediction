@@ -28,7 +28,7 @@ def load_features():
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/processed/traffic_processed.csv")
+    return pd.read_csv("data/processed/traffic_dataset_120k.csv")
 
 @st.cache_resource
 def load_metrics():
